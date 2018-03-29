@@ -1,0 +1,21 @@
+{
+  "name": "task-manager",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "recharts": "^1.0.0-beta.10",
+    "recompose": "^0.26.0",
+    "semantic-ui-react": "^0.79.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

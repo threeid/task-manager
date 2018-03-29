@@ -1,0 +1,13 @@
+.header--text {
+  font-size: 24px;
+  color: #6435c9;
+}
+
+.chat--bubble {
+  display: inline-block;
+  border-radius: 5px;
+  box-shadow: 0 0 4px #B39DDB;
+  padding: 10px;
+}
+
+
